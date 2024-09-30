@@ -1,5 +1,5 @@
 :root{
-     --background: url('https://images.alphacoders.com/632/632525.png');
+     --background: url('https://images2.alphacoders.com/135/thumb-1920-1350518.jpeg');
      --activetext-colour: white;
  
      --primary1-colour: red;
@@ -36,13 +36,13 @@
 /* Guild and Top bar transparency */
 .theme-dark .wrapper_fea3ef {
     background:transparent;
-    background-image: var(--transparency-1);
+    background-: var(--transparency-1);
 }
 
 /* transparency for channels and members list and private channels and left side of settings*/
 #app-mount .container_ee69e0, .privateChannels_f0963d, .app_bd26cc .standardSidebarView_c25c6d, .app_bd26cc .container_c2739c {
     background: transparent;
-    background-image: var(--transparency-2); 
+    background-: var(--transparency-2); 
 }
 .theme-dark .panels_a4d4d9, .theme-light .panels_a4d4d9 {
     background: var(--transparency-2);
